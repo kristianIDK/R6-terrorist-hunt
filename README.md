@@ -1,5 +1,5 @@
 # Download Below ⬇⬇⬇
-Version 1 - https://github.com/kristianIDK/R6-terrorist-hunt/releases/tag/1
+Version 1 - Coming Soon
 
 # auto-terrorist-hunt
 
