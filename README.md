@@ -34,3 +34,5 @@ The other script here uses virtual controller inputs using vJoy rather than keyb
 There is no good reason to use that script over the keyboard one, but I included it because it took forever to make.
 
 I suggest setting the VSync mode to 2 Frame to lock the FPS at some maximum so your computer does not explode, setting volume to 0, and maybe undervolting GPU during longer runs.
+
+## Stay safe, friend 👍
