@@ -1,3 +1,6 @@
+# How To Download It?
+
+
 # auto-terrorist-hunt
 
 A small AutoHotkey script that loops playing a certain terrorist hunt mode in Rainbow Six Siege to farm renown (PC).
